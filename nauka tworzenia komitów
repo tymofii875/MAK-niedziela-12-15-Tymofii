@@ -1,0 +1,4 @@
+print("Napisz swoje Imię i Nazwisko")
+Imię = input("Jak masz na Imię")
+Nazwisko = input("Jak masz na Nazwisko")
+print("Imię,Nazwisko")
